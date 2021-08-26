@@ -11,4 +11,4 @@ procurando.
 ## Curiosidades
 
 - Sou um entusiasta de tecnologia
-- 
+- Pai de PET
